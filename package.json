@@ -11,7 +11,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "Regulatory knowledge base API for medical device QMS compliance. Extracts and serves ISO 13485 and 21 CFR 820 requirements with AI-enhanced audit intelligence for automated compliance checking.",
   "dependencies": {
     "axios": "^1.12.2",
     "cheerio": "^1.1.2",
